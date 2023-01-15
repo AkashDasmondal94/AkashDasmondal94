@@ -1,20 +1,34 @@
-<h1 align="center">Hi 👋, I'm Akash</h1>
-<h3 align="center">A Highly enthusiastic and hardworking developer. A person who is eager to learn new technologies have been able to deliver a consistent approach throughout a challenging period of development.</h3>
+<!-- ![MasterHead](https://camo.githubusercontent.com/b0621d07cea35d36f40304a746dc6c07e2ffd2ce9dc6c283b59b4697a8cd1039/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313833382f302a4647443642557a7a5a7331564a4c75592e676966) -->
 
-- 💬 Ask me about **React, JavaScript**
+<img src= "https://camo.githubusercontent.com/b0621d07cea35d36f40304a746dc6c07e2ffd2ce9dc6c283b59b4697a8cd1039/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313833382f302a4647443642557a7a5a7331564a4c75592e676966" align="center" width="100%"/>
 
-- 📫 How to reach me **akash.dasmondal@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1n78lkCOgbYwRExhqWA57Kpzffi8umf1A/view?usp=sharing](https://drive.google.com/file/d/1n78lkCOgbYwRExhqWA57Kpzffi8umf1A/view?usp=sharing)
+
+<h1 align="center">Hi 👋, I'm Rajat Mujawar</h1>
+
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Web+Developer;React+Developer;Quick+learner;MERN+Developer;&right=true&width=400&height=50">
+<h3 align="center">Enthusiastic Aspiring self-motivated Full Stack Web Developer specialized MERN- stack from Masai School. Worked through 1000+ hours of learning HTML, CSS, JavaScript, React, React-Redux, and Chakra-UI. Looking to start a career as a web developer with a reputed firm driven by technology.</h3>
+
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AkashDasmondal94&label=Profile%20views&color=0e75b6&style=flat" alt="AkashDasmondal94" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AkashDasmondal94" alt="AkashDasmondal94" /></a> </p>
+
+- 🌱 I’m currently learning *HTML,CSS,React,Redux,Node.js,JavaScript*
+
+
+
+- 💬 Ask me about *React, JavaScript*
+
+- 📫 How to reach me *akash.dasmondal@gmail.com*
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1X7JP79bGjHTzElWu8BOTHT5wytL2cNhI/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/akash-dasmondal-18bb7a88/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/akash-dasmondal-18bb7a88/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/rajat-mujawar-70a02822b" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" alt="rajat-mujawar-70a02822b" height="40" width="40" /></a>
 </p>
-
-
-
-
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/1051/1051277.png" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/128/5968/5968292.png" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/518/518713.png" alt="linux" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/875/875209.png" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/520/520890.png" alt="redux" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/512/vue-js.png" alt="vuejs" width="40" height="40"/> </a> </p>
@@ -22,14 +36,8 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=
-AkashDasmondal94&show_icons=true&locale=en" alt="
-AkashDasmondal94" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AkashDasmondal94&show_icons=true&locale=en" alt="AkashDasmondal94" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=
-AkashDasmondal94&" alt="
-AkashDasmondal94" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AkashDasmondal94&" alt="AkashDasmondal94" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=
-AkashDasmondal94&themeborder=false&include_all_commits=true&count_private=true&layout=compact" alt="
-AkashDasmondal94" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkashDasmondal94&themeborder=false&include_all_commits=true&count_private=true&layout=compact" alt="AkashDasmondal94" /></p>
