@@ -4,7 +4,7 @@
 
 
 
-<h1 align="center">Hi 👋, I'm Rajat Mujawar</h1>
+<h1 align="center">Hi 👋, I'm Akash Dasmondal</h1>
 
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Web+Developer;React+Developer;Quick+learner;MERN+Developer;&right=true&width=400&height=50">
 <h3 align="center">Enthusiastic Aspiring self-motivated Full Stack Web Developer specialized MERN- stack from Masai School. Worked through 1000+ hours of learning HTML, CSS, JavaScript, React, React-Redux, and Chakra-UI. Looking to start a career as a web developer with a reputed firm driven by technology.</h3>
@@ -23,11 +23,11 @@
 
 - 📫 How to reach me *akash.dasmondal@gmail.com*
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1X7JP79bGjHTzElWu8BOTHT5wytL2cNhI/view?usp=sharing)
+- 📄 Know about my experiences [[https://drive.google.com/file/d/1X7JP79bGjHTzElWu8BOTHT5wytL2cNhI/view?usp=sharing](https://drive.google.com/file/d/1n78lkCOgbYwRExhqWA57Kpzffi8umf1A/view?usp=share_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/rajat-mujawar-70a02822b" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" alt="rajat-mujawar-70a02822b" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/akash-dasmondal-18bb7a88/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" alt="akash" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
